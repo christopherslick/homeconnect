@@ -1,5 +1,5 @@
 body{
-  color: white;
+  color: black;
 }
 .time {
     text-align:center;
@@ -24,7 +24,7 @@ body{
 
 .quoteArea{
   font-size: 45px;
-  color: white;
+  color: black;
 }
 .card{
   margin-left: auto;
@@ -44,4 +44,7 @@ li{
 .thes{
   font-size: 18px;
   font-weight: bold;
+}
+.well {
+   background-color: rgba(245, 245, 245, 0.4);
 }
